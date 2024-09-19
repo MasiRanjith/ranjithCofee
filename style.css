@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+
+
+
+
+
+
+
+
+.nav-item a {
+    font-family:Nunito+Sans;
+    font-size: 20px;
+    font-weight: 400;
+}
+.container a {
+/* width: 15%; */
+}
+.heroContainer {
+    background-image: url(./assets/images/hero.jpg);
+    /* background: linear-gradient(to right, #72575777, #00000083); */
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.heroJumbotron  {
+    padding: 15rem 0;
+
+}
+.heroJumbotron h1 {
+
+    font-family:Merienda;
+    font-weight: 800;
+    font-size: 3.5rem;
+    padding-left: 2rem;
+
+}
+.heroJumbotron  p {
+ font-family:Nunito+Sans;
+ font-size: 1rem;
+ text-align: center;
+ padding: 1rem 0;
+}
+
+.heroJumbotron button a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+   
+   
+}
+.heroJumbotron button {
+    background-color: #BE9C79;
+    border: none;
+    padding: 0.6rem 2rem 0.6rem 2rem;
+    
+}
+.ourMenuJumbotron h2 {
+    font-family:Merienda;
+    font-weight: 800;
+    font-size: 2.8rem;
+}
+.ourMenuJumbotron  p {
+    font-family:Nunito+Sans;
+    font-size: 1rem; 
+    padding: 1rem 5rem 1rem 0;
+
+}
+.ourMenuJumbotron button a {
+    text-decoration: none;
+    color: azure;
+    font-family:Nunito+Sans;
+    font-weight: 400;
+    font-size: 1.1rem;
+    
+}
+.ourMenuJumbotron button {
+    background-color: #BE9C79;
+    padding: 0.6rem 1.8rem;
+    border:none;
+}
+.headingTitle {
+    padding: 2rem 0;
+}
+.headingTitle h2  {
+    font-family:Merienda;
+    font-weight: 800;
+    font-size: 2.4rem;
+}
+.headingTitle img {
+    /* width: 15%; */
+    width:200px
+}
+.facilityBody  {
+    padding: 0 3rem 0 3rem;
+}
+.facilityCardBody h3 {
+    font-family:Nunito+Sans;
+    font-size: 1.2rem;
+}
+.facilityCardBody p {
+    font-family:Nunito+Sans;
+    font-size: 1rem;
+}
+.popularCardHeader img {
+    width: 100%;
+    padding: 0 2rem;
+    
+
+}
+.popularBody {
+    padding: 0 2rem 0 2rem;
+}
+.popularCard {
+    /* padding: 1rem 1rem; */
+    /* width: 30%; */
+}
+.popularCardBody h3 {
+    font-family:Nunito+Sans;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+.galleryCardHeader img {
+    aspect-ratio: 3/2;
+}
+.galleryBody {
+    /* padding: 0 9rem 0 9rem; */
+}
+.teamBody {
+    /* padding: 0 10rem 0 10rem; */
+}
+.teamCardHeader {
+    width: 100%;
+}
+.teamCardBody h3 {
+    font-family:Nunito+Sans;
+    font-size: 1.2rem;
+}
+.iconsCardBody  h3 {
+    font-family:Nunito+Sans;
+    font-size: 1.2rem;
+    font-weight: 500;
+
+}
+
+.iconsCardBody p {
+    font-family:Nunito+Sans;
+    font-size: 1rem;
+}
+.bookingForm {
+    border: solid 2px;
+    padding: 1rem 0;
+    text-align: center;
+}
+.bookingForm h3 {
+    font-family:Nunito+Sans;
+    font-size: 2.4rem;
+}
+
+.formGroup {
+    padding: 1rem 0;
+    
+}
+.formGroup input {
+    padding:0.5rem 7rem 0.5rem 0;
+    border: solid 1.2px;
+}
+::placeholder {
+    font-size: 1.2rem;
+    padding: 1rem;
+}
+
+
+.formGroup button {
+padding: 0.5rem 2rem;
+font-size: 1.rem;
+font-family:Nunito+Sans;
+font-weight: 800%;
+background-color: #BE9C79;
+color: aliceblue;
+border: none;
+/* padding: 0 15rem; */
+}
+.formGroup button a {
+/* padding: 0.5rem 0.5rem; */
+}
+
+
+
+
+.copyright  p{
+    font-family:Nunito+Sans;
+    font-size: 1.2rem;
+}
+.iconsCardHeader  i{
+    font-size: 1.8rem;
+    
+    background-color: #BE9C79;
+   
+    border-radius: 50%;
+    height: 4rem;
+    width:4rem;
+    padding-top: 0.9rem;
+    color: azure;
+    
+}
+hr{
+    padding: 0.1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
